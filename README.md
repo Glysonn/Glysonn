@@ -1,4 +1,4 @@
-### Olá! Bem-vindo(a) ao meu perfil no GitHub. Meu nome é Glyson. 👋😄
+### Olá! Bem-vindo(a) ao meu perfil no GitHub. Meu nome é Glyson Kauã. 👋😄
 
 - 🔭 Atualmente não estou trabalhando.
 - 📚 Cursando Análise e Desenvolvimento de Sistemas.
