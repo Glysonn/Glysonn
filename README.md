@@ -1,7 +1,9 @@
 ### Olá! Bem-vindo(a) ao meu perfil no GitHub. Meu nome é Glyson. 👋😄
 
 - 🔭 Atualmente não estou trabalhando.
+- 📚 Cursando Análise e Desenvolvimento de Sistemas.
 - 🤔 Estou procurando por mais experiência.
+- 👨‍💻 Tecnologia é minha paixão.
 
 
 ## Ferramentas e tecnologias (noções básicas)
