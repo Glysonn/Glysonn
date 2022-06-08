@@ -1,17 +1,8 @@
-<<<<<<< HEAD
 ### Bem-vindo(a) ao meu perfil no GitHub. Meu nome é Glyson. 👋😄
 
 - Atualmente NÃO estou trabalhando.
 - Cursando Análise e Desenvolvimento de Sistemas.
 - Estou procurando por mais experiência.
-=======
-### Olá! Bem-vindo(a) ao meu perfil no GitHub. Meu nome é Glyson Kauã. 👋😄
-
-- 🔭 Atualmente NÃO estou trabalhando;
-- 📚 Cursando Análise e Desenvolvimento de Sistemas;
-- 🤔 Estou procurando por mais experiência;
-- 👨‍💻 Tecnologia é minha paixão.
->>>>>>> 11ffe1d50aa6404a90d26fa9a2d64bfb4b4ceb7d
 
 
 ## Ferramentas e tecnologias
@@ -28,7 +19,6 @@
 </div>
 
 ## Pretendo aprender
-<<<<<<< HEAD
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="40" height="40" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40" />
@@ -38,10 +28,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" width="40" height="40" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" width="40" height="40" />  
 </div>
-=======
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="55" height="55" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40" />    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-plain.svg" width="40" height="40" />
->>>>>>> 11ffe1d50aa6404a90d26fa9a2d64bfb4b4ceb7d
 
 ## Estatísticas
 <div>
