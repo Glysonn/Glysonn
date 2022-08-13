@@ -37,7 +37,7 @@
 ## Estatísticas
 <div>
 <a href="https://github.com/Glysonn">
-  <img src = "[https://github-readme-stats.vercel.app/api/top-langs/?username=Glysonn&layout=compacthttps://github-readme-stats.vercel.app/api/top-langs/?username=Glysonn&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=Glysonn&layout=compact)">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?Glysonn&layout=compact&langs_count=7&theme=dracula"/>
 </a>
 </div>
 
