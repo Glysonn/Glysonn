@@ -1,6 +1,7 @@
 ### Bem-vindo(a) ao meu perfil no GitHub. Meu nome é Glyson. 👋😄
 
-- Cursando o 2º período de Análise e Desenvolvimento de Sistemas.
+- Cursando o 3º período de Análise e Desenvolvimento de Sistemas;
+- Estudo .NET C# voltado ao Desenvolvimento Back-End;
 - Estou procurando por mais experiência.
 
 
