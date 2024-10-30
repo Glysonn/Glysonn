@@ -2,14 +2,14 @@
 
 Desenvolvedor **backend** focado em **C#** e **.NET**. Sempre em busca de inovação e eficiência, gosto de enfrentar novos desafios que me ajudem a crescer e a contribuir para projetos interessantes. Estou sempre aberto a aprender e trocar ideias sobre tecnologia.
 
-📫 **Contato**:  
+📫 **Contatos**:  
 <div style="font-size: 0.9em;">
 <a href="mailto:glysoncavalcanti@gmail.com">
-    <img src="https://www.svgrepo.com/show/223047/gmail.svg" alt="Email" width="24" style="vertical-align: middle;"/> glysoncavalcanti@gmail.com
+    <img src="https://www.svgrepo.com/show/223047/gmail.svg" alt="Email" width="14" style="vertical-align: middle;"/> glysoncavalcanti@gmail.com
 </a> 
- |
+<br>
 <a href="https://www.linkedin.com/in/glyson/">
-    <img src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="LinkedIn" width="30" style="vertical-align: middle;"/> Glyson Cavalcanti
+    <img src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="LinkedIn" width="20" style="vertical-align: middle;"/> Glyson Cavalcanti
 </a>
 </div>
 
