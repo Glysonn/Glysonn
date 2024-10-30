@@ -1,32 +1,59 @@
-### Bem-vindo(a) ao meu perfil no GitHub. Meu nome é Glyson. 👋😄
+# Glyson Cavalcanti
 
-- Cursando o 3º período de Análise e Desenvolvimento de Sistemas;
-- Estudo .NET C# voltado ao Desenvolvimento Back-End;
-- Estou procurando por mais experiência.
+Desenvolvedor **backend** focado em **C#** e **.NET**. Sempre em busca de inovação e eficiência, gosto de enfrentar novos desafios que me ajudem a crescer e a contribuir para projetos interessantes. Estou sempre aberto a aprender e trocar ideias sobre tecnologia.
 
-
-## Ferramentas e tecnologias
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" /> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
-</div>
-
-
-## Estatísticas
-<div>
-<a href="https://github.com/Glysonn">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glysonn&layout=compact&langs_count=7&theme=dracula"/>
+📫 **Contato**:  
+<div style="font-size: 0.9em;">
+<a href="mailto:glysoncavalcanti@gmail.com">
+    <img src="https://www.svgrepo.com/show/223047/gmail.svg" alt="Email" width="24" style="vertical-align: middle;"/> glysoncavalcanti@gmail.com
+</a> 
+ |
+<a href="https://www.linkedin.com/in/glyson/">
+    <img src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="LinkedIn" width="30" style="vertical-align: middle;"/> Glyson Cavalcanti
 </a>
 </div>
 
+---
 
-## Contatos
-<div>
-<a href = "mailto:glysoncavalcanti.job@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/glyson" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+## 🛠️ Tecnologias e Ferramentas
+- **Linguagens**: C#, JavaScript, SQL
+- **Frameworks e Bibliotecas**: .NET Core, Entity Framework, Dapper, MediatR
+- **Arquiteturas e Padrões**: Clean Architecture, DDD, CQRS, Microservices
+- **Bancos de Dados**: SQL Server, MySQL, PostgreSQL, MongoDB
+- **Ferramentas de Versionamento**: Git, GitHub
+
+---
+
+## 🌱 O Que Estou Aprendendo
+- **Clean Architecture**
+- **Arquiteturas de Microserviços**
+- **Padrões de Projetos**
+- **Segurança de APIs**: Autenticação OAuth, JWT
+- **Testes de Integração**: xUnit
+- **Design de APIs**: RESTful e melhores práticas
+- **Mensageria**: RabbitMQ
+
+---
+
+## 📈 Projetos em Destaque
+
+### RentEasy
+##### [Link do repositório](https://github.com/Glysonn/RentEasy)
+
+**Descrição**: RentEasy é uma plataforma de aluguel e reserva de propriedades, desenvolvida para oferecer uma experiência de locação fluida e confiável. O projeto permite aos usuários encontrar e reservar imóveis.
+
+**Tecnologias Utilizadas**: 
+- **Backend**: C# e .NET, com arquitetura **Clean Architecture** para garantir a modularidade e escalabilidade.
+- **Padrões de Design**: Implementação de padrões como **UnitOfWork** e **Repository** para facilitar a persistência de dados e o controle transacional.
+- **Domínio e Eventos**: Modelagem da camada de domínio com entidades como `Apartment`, `Booking` e `User`, utilizando **MediatR** para gerenciar eventos e reduzir o acoplamento entre as camadas.
+- **CQRS, Dapper**: Implementação do padrão CQRS para separar comandos e consultas, com **Dapper** para otimizar o desempenho nas consultas de dados.
+- **Cross-Cutting Concerns**: 
+  - Logging
+  - Middlewares
+  - Exception Handling
+  - Caching
+  - Authorization and Authentication
+
+**Diferenciais**:
+- **Escalabilidade e Qualidade**: Baseado em padrões e práticas de Clean Architecture, mantendo a coesão e independência entre camadas e módulos.
+- **Domain-Driven Design (DDD)**: O projeto foi modelado de acordo com os princípios de DDD, garantindo que o domínio da aplicação seja bem representado e flexível para evoluções futuras.
