@@ -4,10 +4,8 @@ Desenvolvedor **backend** focado em **C#** e **.NET**. Sempre em busca de inovaÃ
 
 ðŸ“« **Contatos**:  
 <div style="font-size: 0.9em;">
-<a href="mailto:glysoncavalcanti@gmail.com">
-    <img src="https://www.svgrepo.com/show/223047/gmail.svg" alt="Email" width="14" style="vertical-align: middle;"/> glysoncavalcanti@gmail.com
-</a> 
-<br>
+<a href="mailto:glysoncavalcanti@gmail.com"> glysoncavalcanti@gmail.com
+</a> &nbsp&nbsp&nbsp
 <a href="https://www.linkedin.com/in/glyson/">
     <img src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="LinkedIn" width="20" style="vertical-align: middle;"/> Glyson Cavalcanti
 </a>
